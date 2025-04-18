@@ -1,6 +1,4 @@
 <div>
-<img align="left" alt="logo" src="https://github.com/Riyaancode/patient-tracker-app/blob/main/assets/favicon.png?raw=true"  />
-
 # Med Track
 
 </div>
@@ -26,11 +24,10 @@ Med Track is a mobile application developed using React Native, Expo, and Fireba
 
 To run the Med Track app on your local machine, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/patient-tracker-app.git`
-2. Change into the project directory: `cd patient-tracker-app`
-3. Install dependencies: `npm install`
-4. Start the Expo development server: `npm start`
-5. Open the app on your device or emulator using the Expo app.
+1. Change into the project directory: `cd patient-tracker-app`
+2. Install dependencies: `npm install`
+3. Start the Expo development server: `npm start`
+4. Open the app on your device or emulator using the Expo app.
 
 Note: To use Firebase Realtime Database, you need to create a Firebase project and configure it in the app.
 
@@ -39,16 +36,13 @@ Note: To use Firebase Realtime Database, you need to create a Firebase project a
 ## Accessing the MedTrack App
 To access the MedTrack app using Expo Go:
 
-1. Open your preferred web browser and navigate to the following link:
-`https://expo.dev/@riyancode/medtrack?serviceType=classic&distribution=expo-go`
+1. Launch the Expo Go app on your mobile device.
 
-2. Launch the Expo Go app on your mobile device.
+2. Tap the "Scan QR Code" button within the Expo Go app.
 
-3. Tap the "Scan QR Code" button within the Expo Go app.
+3. Use your device's camera to scan the QR code displayed on the webpage.
 
-4. Use your device's camera to scan the QR code displayed on the webpage.
-
-5. Once scanned, Expo Go will load the MedTrack app, allowing you to explore its features and functionalities.
+4. Once scanned, Expo Go will load the MedTrack app, allowing you to explore its features and functionalities.
 
 That's it! You have successfully installed the Expo Go app and scanned the QR code to access the MedTrack app. Enjoy using the app!
 
